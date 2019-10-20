@@ -6,22 +6,24 @@ SafePick은 주변에 여성안심택배함이 어디에 있는지 쉽게 확인
 
 ## 상세 정보 보기
 
-<img src="https://i.imgur.com/2wwJlzN.png" alt="상세정보보기" style="zoom:33%;" />
+<img src="https://i.imgur.com/2wwJlzN.png" alt="상세정보보기" style="zoom:33%;" />
 
 ## 지도 앱 선택
 
-<img src="https://i.imgur.com/rSUcFhq.png" alt="지도앱선택" style="zoom:33%;" />
+<img src="https://i.imgur.com/rSUcFhq.png" alt="지도앱선택" style="zoom:33%;" />
 
 ## 지도에서 찾기
 
-<img src="https://i.imgur.com/JN6MmAg.png" alt="지도" style="zoom:33%;" />
+<img src="https://i.imgur.com/JN6MmAg.png" alt="지도" style="zoom:33%;" />
 
 ## 즐겨찾기
 
-<img src="https://i.imgur.com/GjrEBiY.png" alt="즐겨찾기" style="zoom:33%;" />
+<img src="https://i.imgur.com/GjrEBiY.png" alt="즐겨찾기" style="zoom:33%;" />
 
 ## 다크모드 지원
 
-<img src="https://i.imgur.com/Eew9Cfa.png" alt="상세 다크모드" style="zoom:33%;" />
+<img src="https://i.imgur.com/Eew9Cfa.png" alt="상세 다크모드" style="zoom:33%;" />
 
-<img src="https://i.imgur.com/5YG3K0o.png" alt="지도 다크모드" style="zoom:33%;" />
+<img src="https://i.imgur.com/5YG3K0o.png" alt="지도 다크모드" style="zoom:33%;" />
+
+주의: 프로젝트를 빌드하여 정상적으로 정보를 받아오기 위해서는 CourierURLManager 파일의 API KEY를 업데이트해야 합니다.
