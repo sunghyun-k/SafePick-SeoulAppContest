@@ -1,0 +1,36 @@
+
+/* Class = "UIButton"; normalTitle = "공유"; ObjectID = "6xI-iM-P3A"; */
+"6xI-iM-P3A.normalTitle" = "공유";
+
+/* Class = "UILabel"; text = "서울특별시 구로구 개봉로15길 58-2 중앙경로당"; ObjectID = "HXb-eN-3Tg"; */
+"HXb-eN-3Tg.text" = "서울특별시 구로구 개봉로15길 58-2 중앙경로당";
+
+/* Class = "UILabel"; text = "여성안심택배함"; ObjectID = "IAU-Ua-HOV"; */
+"IAU-Ua-HOV.text" = "여성안심택배함";
+
+/* Class = "UINavigationItem"; title = "Search"; ObjectID = "JHQ-4i-b0j"; */
+"JHQ-4i-b0j.title" = "검색";
+
+/* Class = "UILabel"; text = "방배1동 반딧불센터-방배1동 공영주차장"; ObjectID = "So0-LR-NLE"; */
+"So0-LR-NLE.text" = "방배1동 반딧불센터-방배1동 공영주차장";
+
+/* Class = "UIButton"; normalTitle = "즐겨찾기에 추가"; ObjectID = "aXZ-BS-V6X"; */
+"aXZ-BS-V6X.normalTitle" = "즐겨찾기에 추가";
+
+/* Class = "UILabel"; text = "서울특별시 서초구 방배로 23길 31-6 방배 1동"; ObjectID = "dYA-hx-XMw"; */
+"dYA-hx-XMw.text" = "서울특별시 서초구 방배로 23길 31-6 방배 1동";
+
+/* Class = "UILabel"; text = "서울특별시 구로구 시흥대로 531 구로셀프현대오일뱅크주유소"; ObjectID = "kY1-ek-eHS"; */
+"kY1-ek-eHS.text" = "서울특별시 구로구 시흥대로 531 구로셀프현대오일뱅크주유소";
+
+/* Class = "UISegmentedControl"; rdH-KQ-EZ0.segmentTitles[0] = "목록"; ObjectID = "rdH-KQ-EZ0"; */
+"rdH-KQ-EZ0.segmentTitles[0]" = "목록";
+
+/* Class = "UISegmentedControl"; rdH-KQ-EZ0.segmentTitles[1] = "지도"; ObjectID = "rdH-KQ-EZ0"; */
+"rdH-KQ-EZ0.segmentTitles[1]" = "지도";
+
+/* Class = "UINavigationItem"; title = "즐겨찾기"; ObjectID = "sl2-Xf-jPI"; */
+"sl2-Xf-jPI.title" = "즐겨찾기";
+
+/* Class = "UILabel"; text = "주소"; ObjectID = "te0-Qu-9C5"; */
+"te0-Qu-9C5.text" = "주소";
